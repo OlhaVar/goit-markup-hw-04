@@ -225,7 +225,8 @@ body {
 /* dignity */
 .dignity,
 .exemples,
-.teams {
+.teams,
+.clients {
   padding-top: 94px;
   padding-bottom: 94px;
 }
@@ -506,6 +507,7 @@ align-items: baseline;
   line-height: 1.14px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+
   color: var(--white-color);
 
 margin-bottom: 20px;
