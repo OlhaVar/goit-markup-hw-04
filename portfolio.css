@@ -156,6 +156,7 @@ img {
 }
 
 .page-header .address-list .info {
+  display: flex;
   padding-top: 32px;
   padding-bottom: 32px;
   color: var(--primery-text-color);
@@ -164,6 +165,7 @@ img {
   font-size: 14px;
   line-height: 1.14px;
   letter-spacing: 0.02em;
+  align-items: center;
 }
 
 /* hero */
@@ -253,7 +255,6 @@ button {
   display: block;
   color: var(--title-text-color);
   width: 370px;
-  height: 404px;
   text-decoration: none;
 }
 

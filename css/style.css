@@ -160,6 +160,7 @@ body {
 }
 
 .page-header .address-list .info {
+  display: flex;
   padding-top: 32px;
   padding-bottom: 32px;
 
@@ -169,6 +170,7 @@ body {
   font-size: 14px;
   line-height: 1.14px;
   letter-spacing: 0.02em;
+  align-items: center;
 }
 
 /* hero */
@@ -395,8 +397,6 @@ body {
 }
 
 .clients .clients-item {
-  margin-bottom: 94px;
-
   width: 170px;
   height: 90px;
 }
